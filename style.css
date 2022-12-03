@@ -1,0 +1,80 @@
+body{
+  width: 1000px;
+  margin: auto;
+  
+}
+
+
+.header{
+  background: rgb(11, 121, 194);
+  height: 200px;
+  
+
+  
+  
+}
+
+
+.img1{
+  width: 10%;
+  position: absolute;
+  padding: 40px;
+}
+
+h1 , .box {
+  text-align: center;
+  align-items: center;
+
+
+
+}
+
+.icon{
+
+  
+  width: 150px;
+  margin-left: auto;
+  margin-right:auto ;
+}
+
+.img2{
+  padding: 0 10px;
+}
+
+.section1 , .section2{
+  
+  width: 450px;
+  
+  
+}
+
+ul{
+  list-style: none;
+
+}
+
+li{
+  text-align: justify;
+  padding: 10px;
+}
+
+.content{
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: 35px;
+  flex-wrap: wrap;
+}
+
+button{
+  height: 50px;
+  background: none;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  border: none;
+  cursor: pointer;
+}
+
+
+
+
+
